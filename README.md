@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Vue.js, React Native, and Pygame (along with Python)**
 
-- 👨‍💻 All of my projects are available at [this GitHub!](this GitHub!)
+- 👨‍💻 All of my projects are available at [this GitHub!](https://github.com/z4xi)
 
 - ⚡ Fun fact **I do basically everything as a hobby.**
 
