@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Void Hub, a roblox script hub](https://github.com/z4xi/voidhub)<br><br>- 🌱 I’m currently learning **Vue.js, React Native, and Pygame (along with Python)**<br><br>- 👨‍💻 All of my projects are available at [this GitHub!](https://github.com/z4xi)<br><br>- ⚡ Fun fact **I do basically everything as a hobby.**
+- 🔭 I’m currently working on [Void Hub, a roblox script hub](https://github.com/z4xi/voidhub)<br><br>- 🌱 I’m currently learning **Vue.js, React Native, and Pygame (along with Python)**<br><br>- 👨‍💻 All of my projects are available at [this GitHub!](https://github.com/z4xi)<br><br>- ⚡ Fun fact: **I do basically everything as a hobby.**
 
 
 ## 🌐 Socials:
