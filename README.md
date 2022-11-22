@@ -1,6 +1,6 @@
 # z4xi
-gaming man
+lego hacker and cat enthousiast
 
-cat enthousiast
+## projects:
 
-lua dev
+> bonerbot: a multi-game roblox script aimed for performance and features
